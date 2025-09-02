@@ -31,16 +31,16 @@ JavaScript (ES6+) – Interactivity and dynamic content
 
 🎮 21 Number Game – A strategy-based browser game with Smart AI.
 
-💻 (Add other projects you want to showcase here, e.g. clones, apps, tools)
+🎮 Tic-Tac-Toe- A simple fun game focusing on skill to beat the computer
 
 📬 Contact- jenniferphrankey@gmail.com
 
 If you’d like to collaborate, hire me, or just say hi:
 
-🌐 Portfolio: [your live portfolio link]
+🌐 Portfolio: https://kenley-735.github.io/Portfolio_Website/
 
 💼 LinkedIn: 
 
-📧 Email: [your email]
+📧 Email: jenniferphrankey@gmail.com
 
 ✨ Thanks for visiting my portfolio! I’m always open to new opportunities and exciting challenges.
